@@ -1,8 +1,8 @@
-streamlit
-moviepy
-imageio[ffmpeg]
-pydub
-openai
+streamlit==1.39.0
+moviepy==1.0.3
+imageio[ffmpeg]==2.36.0
+pydub==0.25.1
+openai==1.45.0
 requests
 pandas
 numpy
