@@ -1,7 +1,7 @@
 streamlit
-transformers
-torch
-speechrecognition
-pydub
 moviepy
+openai
 requests
+pydub
+pandas
+numpy
