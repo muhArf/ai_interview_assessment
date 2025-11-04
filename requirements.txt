@@ -1,7 +1,8 @@
 streamlit
 moviepy
+imageio[ffmpeg]
+pydub
 openai
 requests
-pydub
 pandas
 numpy
