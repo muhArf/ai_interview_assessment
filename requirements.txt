@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+speechrecognition
+pydub
+moviepy
+requests
